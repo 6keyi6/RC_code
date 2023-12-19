@@ -1,0 +1,11 @@
+﻿  arm.cpp
+C:\Users\keyi\Desktop\arm\new\arm_6_DOF\arm_6_DOF\arm.cpp(63,12): warning C4101: “B”: 未引用的局部变量
+C:\Users\keyi\Desktop\arm\new\arm_6_DOF\arm_6_DOF\arm.cpp(66,57): warning C4101: “angle2_result2”: 未引用的局部变量
+C:\Users\keyi\Desktop\arm\new\arm_6_DOF\arm_6_DOF\arm.cpp(66,89): warning C4101: “angle1_result2”: 未引用的局部变量
+C:\Users\keyi\Desktop\arm\new\arm_6_DOF\arm_6_DOF\arm.cpp(66,25): warning C4101: “angle3_result2”: 未引用的局部变量
+C:\Users\keyi\Desktop\arm\new\arm_6_DOF\arm_6_DOF\arm.cpp(64,15): warning C4101: “c”: 未引用的局部变量
+C:\Users\keyi\Desktop\arm\new\arm_6_DOF\arm_6_DOF\arm.cpp(63,9): warning C4101: “A”: 未引用的局部变量
+C:\Users\keyi\Desktop\arm\new\arm_6_DOF\arm_6_DOF\arm.cpp(66,41): warning C4101: “angle2_result1”: 未引用的局部变量
+C:\Users\keyi\Desktop\arm\new\arm_6_DOF\arm_6_DOF\arm.cpp(66,73): warning C4101: “angle1_result1”: 未引用的局部变量
+C:\Users\keyi\Desktop\arm\new\arm_6_DOF\arm_6_DOF\arm.cpp(66,9): warning C4101: “angle3_result1”: 未引用的局部变量
+  arm_6_DOF.vcxproj -> C:\Users\keyi\Desktop\arm\new\arm_6_DOF\x64\Debug\arm_6_DOF.exe
